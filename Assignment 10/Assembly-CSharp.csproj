@@ -53,20 +53,9 @@
     <UnityVersion>2020.2.3f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\PoolManager.cs" />
     <Compile Include="Assets\Scripts\PlayerController.cs" />
+    <Compile Include="Assets\Scripts\PoolManager.cs" />
     <Compile Include="Assets\Scripts\BulletBehavior.cs" />
-    <Compile Include="Assets\Week11_Object_Pooling_and_Singleton\1. Singleton Pattern with Console Output\UsingSingletons.cs" />
-    <Compile Include="Assets\Week11_Object_Pooling_and_Singleton\3. Object Pool Pattern with GameObjects\Design Pattern Scripts\Pool.cs" />
-    <Compile Include="Assets\Week11_Object_Pooling_and_Singleton\2. Persistant Singleton Scene Loading GameManager with Generics\Scripts\GameManager.cs" />
-    <Compile Include="Assets\Week11_Object_Pooling_and_Singleton\1. Singleton Pattern with Console Output\SingletonClass.cs" />
-    <Compile Include="Assets\Week11_Object_Pooling_and_Singleton\3. Object Pool Pattern with GameObjects\Client Scripts\FastPrefabSpawnerWithObjPooling.cs" />
-    <Compile Include="Assets\Week11_Object_Pooling_and_Singleton\1. Singleton Pattern with Console Output\StaticClass.cs" />
-    <Compile Include="Assets\Week11_Object_Pooling_and_Singleton\2. Persistant Singleton Scene Loading GameManager with Generics\Scripts\utils\Singleton.cs" />
-    <Compile Include="Assets\Week11_Object_Pooling_and_Singleton\1. Singleton Pattern with Console Output\SingletonMonoBehaviour.cs" />
-    <Compile Include="Assets\Week11_Object_Pooling_and_Singleton\3. Object Pool Pattern with GameObjects\Supporting Scripts\FountainAddForce.cs" />
-    <Compile Include="Assets\Week11_Object_Pooling_and_Singleton\3. Object Pool Pattern with GameObjects\Client Scripts\SlowPrefabSpawner.cs" />
-    <Compile Include="Assets\Week11_Object_Pooling_and_Singleton\3. Object Pool Pattern with GameObjects\Design Pattern Scripts\ObjectPooler.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
